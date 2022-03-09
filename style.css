@@ -1,0 +1,71 @@
+
+
+	body{
+
+ 	
+ }
+
+
+   .tituloprincipal{
+
+   	
+   	font-size: 40px;
+   	padding-left: 20px;
+   }
+	  
+ 	#banner{
+
+ 		width: 100%;
+ 	}
+
+ 	.principal{
+ 		background: #CCCCCC;
+ 		padding: 30px;
+
+ 	}
+
+ 	.carctitulos
+ 	{text-align: center;
+
+ 		font-size: 30px;} 
+
+
+	p{text-align: center; 
+		font-size: 22px;}
+
+
+	#missao {
+		font-size: 27px
+	}
+
+	  em strong{
+
+ 	color: red;
+ }
+
+	.itens{
+
+	font-style: italic;
+}
+
+ 	
+
+ 	ul{
+ 		font-size: 25px;
+
+ 		display: inline-block;
+ 		vertical-align: top;
+ 		width: 20%;
+ 		margin-right:15%;
+ 	}
+
+	.Benefícios{
+
+	background:#FFFFFF ;
+	padding: 20px;
+}
+
+	.imagembene{
+
+		width: 50%;
+	}
